@@ -1,0 +1,11 @@
+{
+    "name": "MoreBeltTiers",
+    "version": "0.1",
+    "title": "More Belt Tiers",
+    "author": "SpicyTeeth",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.17",
+    "dependencies": ["base >= 0.17"],
+    "description": "Adds seven more tiers of transport belts and loaders, each increasing in speed by the same amount as the base game tiers do."
+}
