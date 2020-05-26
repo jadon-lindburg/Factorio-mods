@@ -10,7 +10,7 @@ data:extend(
         icon_size = 32,
         flags = {"placeable-neutral", "player-creation"},
         minable = {mining_time = 0.1, result = "splitter-4"},
-        max_health = 180,
+        max_health = 200,
         corpse = "splitter-4-remnants",
         resistances =
         {

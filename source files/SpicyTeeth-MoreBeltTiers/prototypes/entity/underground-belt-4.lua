@@ -10,7 +10,7 @@ data:extend(
         icon_size = 32,
         flags = {"placeable-neutral", "player-creation"},
         minable = {mining_time = 0.1, result = "underground-belt-4"},
-        max_health = 160,
+        max_health = 180,
         corpse = "underground-belt-4-remnants",
         max_distance = 11,
         underground_sprite =
