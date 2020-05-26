@@ -13,4 +13,5 @@ Version: 1.0.0 - First release
 Date: 25. 05. 2020 
     New features:
         - Added transport belt tier 4, along with corresponding underground belt and splitter.
+        - Added logistics 4 technology.
         - Express transport belt/underground belt/splitter can be automatically upgraded to tier 4.
