@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0 - First release
+Date: 25. 05. 2020
+    New features:
+        - Added refined lubricant.
+        - Added refined lubricant technology.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 25. 04. 2020
+    New features:
+        - Added steel gear wheels.
+        - Added steel gear wheel recipe to steel processing technology.
