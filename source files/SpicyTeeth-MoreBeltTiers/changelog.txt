@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 26. 05. 2020
+    New features:
+        - Added transport belt tier 5, along with corresponding underground belt and splitter.
+        - Added logistics 5 technology.
+        - Transport belt/underground belt/splitter tier 4 can be automatically upgraded to tier 5.
+---------------------------------------------------------------------------------------------------
 Version: 1.0.2
 Date: 26. 05. 2020
     Bugfixes:
