@@ -1,6 +1,6 @@
+require("prototypes.entity.express-transport-belt")
 require("prototypes.entity.transport-belt-4-pictures")
 require("prototypes.entity.transport-belt-4-remnants")
-require("prototypes.entity.express-transport-belt")
 
 data:extend(
 {
@@ -34,6 +34,7 @@ data:extend(
         animation_speed_coefficient = 32,
         belt_animation_set = tier_4_belt_animation_set,
         fast_replaceable_group = "transport-belt",
+        next_upgrade = "transport-belt-5",
         speed = 0.125,
         connector_frame_sprites = transport_belt_connector_frame_sprites,        
         circuit_wire_connection_points = circuit_connector_definitions["belt"].points,

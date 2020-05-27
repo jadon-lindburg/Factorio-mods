@@ -26,6 +26,7 @@ data:extend(
         structure_animation_movement_cooldown = 10,
         belt_animation_set = tier_4_belt_animation_set,
         fast_replaceable_group = "transport-belt",
+        next_upgrade = "splitter-5",
         speed = 0.125,
         structure =
         {
