@@ -1,7 +1,7 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.2.0
 Date: 2020-05-26
-  New features:
+  Features:
     - Added transport belt tier 6, along with corresponding underground belt and splitter (120 items/sec).
     - Added logistics 6 technology.
     - Transport belt/underground belt/splitter tier 5 can be automatically upgraded to tier 6.
@@ -16,7 +16,7 @@ Date: 2020-05-26
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.0
 Date: 2020-05-26
-  New features:
+  Features:
     - Added transport belt tier 5, along with corresponding underground belt and splitter (75 items/sec).
     - Added logistics 5 technology.
     - Transport belt/underground belt/splitter tier 4 can be automatically upgraded to tier 5.
@@ -35,7 +35,7 @@ Date: 2020-05-25
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0 - First release
 Date: 2020-05-25
-  New features:
+  Features:
     - Added transport belt tier 4, along with corresponding underground belt and splitter (60 items/sec).
     - Added logistics 4 technology.
     - Express transport belt/underground belt/splitter can be automatically upgraded to tier 4.
