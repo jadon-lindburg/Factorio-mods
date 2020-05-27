@@ -1,7 +1,7 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.2.0
-Date: 26. 05. 2020
-  New features:
+Date: 2020-05-26
+  Features:
     - Added transport belt tier 6, along with corresponding underground belt and splitter (120 items/sec).
     - Added logistics 6 technology.
     - Transport belt/underground belt/splitter tier 5 can be automatically upgraded to tier 6.
@@ -9,14 +9,14 @@ Date: 26. 05. 2020
     - Fixed transport belt tier 5 icon on transport belt tier 5 entity spritesheet.
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.1
-Date: 26. 05. 2020
+Date: 2020-05-26
   Changes:
     - Increased speed of tier 5 from 75 to 90 items/sec.
     - Removed sprite source files from mod files to reduce filesize.
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.0
-Date: 26. 05. 2020
-  New features:
+Date: 2020-05-26
+  Features:
     - Added transport belt tier 5, along with corresponding underground belt and splitter (75 items/sec).
     - Added logistics 5 technology.
     - Transport belt/underground belt/splitter tier 4 can be automatically upgraded to tier 5.
@@ -24,18 +24,18 @@ Date: 26. 05. 2020
     - Added changelog to mod files.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.2
-Date: 26. 05. 2020
+Date: 2020-05-26
   Bugfixes:
     - Fixed splitter tier 4 west-facing high-res animation lurching back and forth.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.1
-Date: 25. 05. 2020
+Date: 2020-05-25
   Changes:
     - Added thumbnail to mod files.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0 - First release
-Date: 25. 05. 2020 
-  New features:
+Date: 2020-05-25
+  Features:
     - Added transport belt tier 4, along with corresponding underground belt and splitter (60 items/sec).
     - Added logistics 4 technology.
     - Express transport belt/underground belt/splitter can be automatically upgraded to tier 4.
