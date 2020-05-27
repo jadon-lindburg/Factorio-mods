@@ -20,6 +20,8 @@ Date: 26. 05. 2020
     - Added transport belt tier 5, along with corresponding underground belt and splitter (75 items/sec).
     - Added logistics 5 technology.
     - Transport belt/underground belt/splitter tier 4 can be automatically upgraded to tier 5.
+  Changes:
+    - Added changelog to mod files.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.2
 Date: 26. 05. 2020
