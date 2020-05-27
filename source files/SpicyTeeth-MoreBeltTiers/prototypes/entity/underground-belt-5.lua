@@ -46,7 +46,7 @@ data:extend(
         animation_speed_coefficient = 32,
         belt_animation_set = tier_5_belt_animation_set,
         fast_replaceable_group = "transport-belt",
-        speed = 0.15625,
+        speed = 0.1875,
         structure =
         {
             direction_in =
