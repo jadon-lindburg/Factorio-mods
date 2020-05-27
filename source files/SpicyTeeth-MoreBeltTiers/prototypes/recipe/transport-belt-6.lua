@@ -10,7 +10,7 @@ data:extend(
 			ingredients =
 			{
 				{"steel-gear-wheel", 10},
-				{"transport-belt-4", 1},
+				{"transport-belt-5", 1},
 				{type="fluid", name="refined-lubricant", amount=50}
 			},
 			result = "transport-belt-6"
