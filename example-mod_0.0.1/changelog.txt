@@ -1,0 +1,53 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1 - Date format notes
+Date: 2020/05/27
+  Info:
+    - Including the "Date: " line is entirely optional. If you don't care about including release dates, just leave it out entirely.
+    - The exact format of the date string in the "Date: " line is up to you.
+    - The date format listed in example version 0.0.0 below (DD. MM. YYYY) is the one used by Wube in the base mod changelog, but you do not have to follow this.
+    - The most common date formats that i've seen used are DD. MM. YYYY (Wube's) or YYYY-MM-DD. I recommend using one of these two, but it's your mod, do whatever you want to.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.0 - Listing of "official" categories
+Date: 31. 12. 1970
+  Major Features:
+    - Feature description.
+  Features:
+    - Feature description.
+  Minor Features:
+    - Feature description.
+  Graphics:
+    - Graphical change description.
+  Sounds:
+    - Sound change description.
+  Optimisations:
+    - Optimization description. (Misspelling of "optimizations" as "optimisations is by Wube in the base mod changelog, don't @ me.)
+  Balancing:
+    - Balancing change description.
+  Combat Balancing:
+    - Combat balancing change description.
+  Circuit Network:
+    - Circuit netwwork change description.
+  Changes:
+    - General change description.
+  Bugfixes:
+    - Fixed bug description.
+  Modding:
+    - Modding/API change description.
+  Scripting:
+    - Scripting/API change description.
+  Gui:
+    - Gui change description.
+  Control:
+    - Controls change description.
+  Translation:
+    - Translation change description.
+  Debug:
+    - Debug change description.
+  Ease of use:
+    - Ease of use change description.
+  Info:
+    - Information about this version.
+  Locale:
+    - Locale change description.
+  Other:
+    - Anything not covered by these "official" categories. (Feel free to make your own, but the ordering in the in-game changelog viewer might be weird if you do.)
