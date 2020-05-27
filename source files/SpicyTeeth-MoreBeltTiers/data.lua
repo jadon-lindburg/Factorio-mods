@@ -14,7 +14,7 @@ require("prototypes.item.splitter-4")
 require("prototypes.item.transport-belt-5")
 require("prototypes.item.underground-belt-5")
 require("prototypes.item.splitter-5")
-require("prototypes.item.transport-belt-")
+require("prototypes.item.transport-belt-6")
 require("prototypes.item.underground-belt-6")
 require("prototypes.item.splitter-6")
 
