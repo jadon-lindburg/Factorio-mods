@@ -25,7 +25,7 @@ data:extend(
         structure_animation_movement_cooldown = 10,
         belt_animation_set = tier_5_belt_animation_set,
         fast_replaceable_group = "transport-belt",
-        speed = 0.15625,
+        speed = 0.1875,
         structure =
         {
             north =

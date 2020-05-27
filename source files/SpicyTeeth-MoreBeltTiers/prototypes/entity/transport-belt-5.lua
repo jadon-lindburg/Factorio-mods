@@ -33,7 +33,7 @@ data:extend(
         animation_speed_coefficient = 32,
         belt_animation_set = tier_5_belt_animation_set,
         fast_replaceable_group = "transport-belt",
-        speed = 0.15625,
+        speed = 0.1875,
         connector_frame_sprites = transport_belt_connector_frame_sprites,        
         circuit_wire_connection_points = circuit_connector_definitions["belt"].points,
         circuit_connector_sprites = circuit_connector_definitions["belt"].sprites,
