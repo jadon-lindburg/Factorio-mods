@@ -10,6 +10,7 @@ Version: 1.1.1
 Date: 26. 05. 2020
   Changes:
     - Increased speed of tier 5 from 75 to 90 items/sec.
+    - Removed sprite source files from mod files to reduce filesize.
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.0
 Date: 26. 05. 2020
