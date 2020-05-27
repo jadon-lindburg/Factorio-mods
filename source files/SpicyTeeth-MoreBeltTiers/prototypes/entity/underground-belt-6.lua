@@ -1,16 +1,16 @@
-require("prototypes.entity.underground-belt-5-remnants")
+require("prototypes.entity.underground-belt-6-remnants")
 
 data:extend(
 {
   {
     type = "underground-belt",
-    name = "underground-belt-5",
-    icon = "__spicy-teeth-more-belt-tiers__/graphics/icons/underground-belt-5.png",
+    name = "underground-belt-6",
+    icon = "__spicy-teeth-more-belt-tiers__/graphics/icons/underground-belt-6.png",
     icon_size = 32,
     flags = {"placeable-neutral", "player-creation"},
-    minable = {mining_time = 0.1, result = "underground-belt-5"},
-    max_health = 190,
-    corpse = "underground-belt-5-remnants",
+    minable = {mining_time = 0.1, result = "underground-belt-6"},
+    max_health = 200,
+    corpse = "underground-belt-6-remnants",
     max_distance = 13,
     underground_sprite =
     {
@@ -46,22 +46,21 @@ data:extend(
     animation_speed_coefficient = 32,
     belt_animation_set = tier_5_belt_animation_set,
     fast_replaceable_group = "transport-belt",
-    next_upgrade = "underground-belt-6",
-    speed = 0.1875,
+    speed = 0.25,
     structure =
     {
       direction_in =
       {
         sheet =
         {
-          filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-5/underground-belt-5-structure.png",
+          filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-6/underground-belt-6-structure.png",
           priority = "extra-high",
           width = 96,
           height = 96,
           y = 96,
           hr_version =
           {
-            filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-5/hr-underground-belt-5-structure.png",
+            filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-6/hr-underground-belt-6-structure.png",
             priority = "extra-high",
             width = 192,
             height = 192,
@@ -74,13 +73,13 @@ data:extend(
       {
         sheet =
         {
-          filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-5/underground-belt-5-structure.png",
+          filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-6/underground-belt-6-structure.png",
           priority = "extra-high",
           width = 96,
           height = 96,
           hr_version =
           {
-            filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-5/hr-underground-belt-5-structure.png",
+            filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-6/hr-underground-belt-6-structure.png",
             priority = "extra-high",
             width = 192,
             height =192,
@@ -92,14 +91,14 @@ data:extend(
       {
         sheet =
         {
-          filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-5/underground-belt-5-structure.png",
+          filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-6/underground-belt-6-structure.png",
           priority = "extra-high",
           width = 96,
           height = 96,
           y = 96*3,
           hr_version =
           {
-            filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-5/hr-underground-belt-5-structure.png",
+            filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-6/hr-underground-belt-6-structure.png",
             priority = "extra-high",
             width = 192,
             height = 192,
@@ -112,14 +111,14 @@ data:extend(
       {
         sheet =
         {
-          filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-5/underground-belt-5-structure.png",
+          filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-6/underground-belt-6-structure.png",
           priority = "extra-high",
           width = 96,
           height = 96,
           y = 96*2,
           hr_version =
           {
-            filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-5/hr-underground-belt-5-structure.png",
+            filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-6/hr-underground-belt-6-structure.png",
             priority = "extra-high",
             width = 192,
             height = 192,
@@ -132,13 +131,13 @@ data:extend(
       {
         sheet =
         {
-          filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-5/underground-belt-5-structure-back-patch.png",
+          filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-6/underground-belt-6-structure-back-patch.png",
           priority = "extra-high",
           width = 96,
           height = 96,
           hr_version =
           {
-            filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-5/hr-underground-belt-5-structure-back-patch.png",
+            filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-6/hr-underground-belt-6-structure-back-patch.png",
             priority = "extra-high",
             width = 192,
             height = 192,
@@ -150,13 +149,13 @@ data:extend(
       {
         sheet =
         {
-          filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-5/underground-belt-5-structure-front-patch.png",
+          filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-6/underground-belt-6-structure-front-patch.png",
           priority = "extra-high",
           width = 96,
           height = 96,
           hr_version =
           {
-            filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-5/hr-underground-belt-5-structure-front-patch.png",
+            filename = "__spicy-teeth-more-belt-tiers__/graphics/entity/underground-belt-6/hr-underground-belt-6-structure-front-patch.png",
             priority = "extra-high",
             width = 192,
             height = 192,
