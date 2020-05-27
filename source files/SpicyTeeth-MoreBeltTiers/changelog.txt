@@ -5,6 +5,8 @@ Date: 26. 05. 2020
     - Added transport belt tier 6, along with corresponding underground belt and splitter (120 items/sec).
     - Added logistics 6 technology.
     - Transport belt/underground belt/splitter tier 5 can be automatically upgraded to tier 6.
+  Bugfixes:
+    - Fixed transport belt tier 5 icon on transport belt tier 5 entity spritesheet.
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.1
 Date: 26. 05. 2020
