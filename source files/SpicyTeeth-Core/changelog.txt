@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 2020-05-27
+  Features:
+    - Added aerated lubricant.
+    - Added aerated lubricant technology.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 2020-05-26
+  Changes:
+    - Added changelog to mod files.
+    - Removed sprite source files from mod files to reduce filesize.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0 - First release
+Date: 2020-05-25
+  Features:
+    - Added refined lubricant.
+    - Added refined lubricant technology.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2020-05-25
+  Features:
+    - Added steel gear wheel.
+    - Added steel gear wheel recipe to steel processing technology.
