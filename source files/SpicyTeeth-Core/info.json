@@ -1,9 +1,9 @@
 {
     "name": "spicy-teeth-core",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "factorio_version": "0.17",
-    "title": "Spicy Teeth - Core",
+    "title": "Spicy Teeth - Core [development]",
     "author": "SparkliTwizzl",
-    "description": "Adds the base for other Spicy Teeth mods, including new ores, fluids, and items.",
+    "description": "Adds the base for other Spicy Teeth mods.",
     "dependencies": ["base >= 0.17.0"]
 }
