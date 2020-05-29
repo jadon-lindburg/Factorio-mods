@@ -1,6 +1,0 @@
----------------------------------------------------------------------------------------------------
-Version: 1.0.0 - First release
-Date: 2020-05-29
-  Changes:
-    - Separated graphics assets from spicy-teeth-more-belt-tiers mod to allow assets
-      and functional elements to be updated independently.

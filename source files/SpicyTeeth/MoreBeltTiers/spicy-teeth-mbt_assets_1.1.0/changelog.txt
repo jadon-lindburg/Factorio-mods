@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2020-05-29
+  Features:
+    - Added assets for tier 8 belts.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0 - First release
+Date: 2020-05-29
+  Changes:
+    - Separated graphics assets from spicy-teeth-more-belt-tiers mod to allow assets
+      and functional elements to be updated independently.
