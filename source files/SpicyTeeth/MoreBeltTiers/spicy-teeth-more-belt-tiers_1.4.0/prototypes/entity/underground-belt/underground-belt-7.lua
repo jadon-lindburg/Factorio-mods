@@ -1,17 +1,17 @@
-require("prototypes.entity.underground-belt-6-remnants")
+require("prototypes.entity.underground-belt.underground-belt-7-remnants")
 
 data:extend(
 {
   {
     type = "underground-belt",
-    name = "underground-belt-6",
-    icon = "__spicy-teeth-mbt_assets__/graphics/icons/underground-belt-6.png",
+    name = "underground-belt-7",
+    icon = "__spicy-teeth-mbt_assets__/graphics/icons/underground-belt-7.png",
     icon_size = 32,
     flags = {"placeable-neutral", "player-creation"},
-    minable = {mining_time = 0.1, result = "underground-belt-6"},
-    max_health = 200,
-    corpse = "underground-belt-6-remnants",
-    max_distance = 15,
+    minable = {mining_time = 0.1, result = "underground-belt-7"},
+    max_health = 210,
+    corpse = "underground-belt-7-remnants",
+    max_distance = 17,
     underground_sprite =
     {
       filename = "__core__/graphics/arrows/underground-lines.png",
@@ -44,24 +44,24 @@ data:extend(
     collision_box = {{-0.4, -0.4}, {0.4, 0.4}},
     selection_box = {{-0.5, -0.5}, {0.5, 0.5}},
     animation_speed_coefficient = 32,
-    belt_animation_set = tier_6_belt_animation_set,
+    belt_animation_set = tier_7_belt_animation_set,
     fast_replaceable_group = "transport-belt",
-    next_upgrade = "underground-belt-7",
-    speed = 0.25,
+    next_upgrade = "underground-belt-8",
+    speed = 0.3125,
     structure =
     {
       direction_in =
       {
         sheet =
         {
-          filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-6/underground-belt-6-structure.png",
+          filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-7/underground-belt-7-structure.png",
           priority = "extra-high",
           width = 96,
           height = 96,
           y = 96,
           hr_version =
           {
-            filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-6/hr-underground-belt-6-structure.png",
+            filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-7/hr-underground-belt-7-structure.png",
             priority = "extra-high",
             width = 192,
             height = 192,
@@ -74,13 +74,13 @@ data:extend(
       {
         sheet =
         {
-          filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-6/underground-belt-6-structure.png",
+          filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-7/underground-belt-7-structure.png",
           priority = "extra-high",
           width = 96,
           height = 96,
           hr_version =
           {
-            filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-6/hr-underground-belt-6-structure.png",
+            filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-7/hr-underground-belt-7-structure.png",
             priority = "extra-high",
             width = 192,
             height =192,
@@ -92,14 +92,14 @@ data:extend(
       {
         sheet =
         {
-          filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-6/underground-belt-6-structure.png",
+          filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-7/underground-belt-7-structure.png",
           priority = "extra-high",
           width = 96,
           height = 96,
           y = 96*3,
           hr_version =
           {
-            filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-6/hr-underground-belt-6-structure.png",
+            filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-7/hr-underground-belt-7-structure.png",
             priority = "extra-high",
             width = 192,
             height = 192,
@@ -112,14 +112,14 @@ data:extend(
       {
         sheet =
         {
-          filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-6/underground-belt-6-structure.png",
+          filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-7/underground-belt-7-structure.png",
           priority = "extra-high",
           width = 96,
           height = 96,
           y = 96*2,
           hr_version =
           {
-            filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-6/hr-underground-belt-6-structure.png",
+            filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-7/hr-underground-belt-7-structure.png",
             priority = "extra-high",
             width = 192,
             height = 192,
@@ -132,13 +132,13 @@ data:extend(
       {
         sheet =
         {
-          filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-6/underground-belt-6-structure-back-patch.png",
+          filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-7/underground-belt-7-structure-back-patch.png",
           priority = "extra-high",
           width = 96,
           height = 96,
           hr_version =
           {
-            filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-6/hr-underground-belt-6-structure-back-patch.png",
+            filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-7/hr-underground-belt-7-structure-back-patch.png",
             priority = "extra-high",
             width = 192,
             height = 192,
@@ -150,13 +150,13 @@ data:extend(
       {
         sheet =
         {
-          filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-6/underground-belt-6-structure-front-patch.png",
+          filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-7/underground-belt-7-structure-front-patch.png",
           priority = "extra-high",
           width = 96,
           height = 96,
           hr_version =
           {
-            filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-6/hr-underground-belt-6-structure-front-patch.png",
+            filename = "__spicy-teeth-mbt_assets__/graphics/entity/underground-belt-7/hr-underground-belt-7-structure-front-patch.png",
             priority = "extra-high",
             width = 192,
             height = 192,

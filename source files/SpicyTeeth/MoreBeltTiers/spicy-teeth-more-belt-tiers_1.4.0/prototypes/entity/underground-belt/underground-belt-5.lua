@@ -1,4 +1,4 @@
-require("prototypes.entity.underground-belt-5-remnants")
+require("prototypes.entity.underground-belt.underground-belt-5-remnants")
 
 data:extend(
 {

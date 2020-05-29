@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.4.0
+Date: 2020-05-29
+  Features:
+    - Added transport belt/underground belt/splitter tier 8 (180 items/sec).
+    - Added logistics 8 technology.
+    - Transport belt/underground belt/splitter tier 7 can be automatically upgraded to tier 8.
+---------------------------------------------------------------------------------------------------
 Version: 1.3.2
 Date: 2020-05-29
   Changes:

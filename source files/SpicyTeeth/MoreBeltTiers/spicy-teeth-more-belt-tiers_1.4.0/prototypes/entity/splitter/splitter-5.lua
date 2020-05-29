@@ -1,17 +1,16 @@
-require("prototypes.entity.express-splitter")
-require("prototypes.entity.splitter-4-remnants")
+require("prototypes.entity.splitter.splitter-5-remnants")
 
 data:extend(
 {
   {
     type = "splitter",
-    name = "splitter-4",
-    icon = "__spicy-teeth-mbt_assets__/graphics/icons/splitter-4.png",
+    name = "splitter-5",
+    icon = "__spicy-teeth-mbt_assets__/graphics/icons/splitter-5.png",
     icon_size = 32,
     flags = {"placeable-neutral", "player-creation"},
-    minable = {mining_time = 0.1, result = "splitter-4"},
-    max_health = 200,
-    corpse = "splitter-4-remnants",
+    minable = {mining_time = 0.1, result = "splitter-5"},
+    max_health = 210,
+    corpse = "splitter-5-remnants",
     resistances =
     {
       {
@@ -24,15 +23,15 @@ data:extend(
     animation_speed_coefficient = 32,
     structure_animation_speed_coefficient = 1.2,
     structure_animation_movement_cooldown = 10,
-    belt_animation_set = tier_4_belt_animation_set,
+    belt_animation_set = tier_5_belt_animation_set,
     fast_replaceable_group = "transport-belt",
-    next_upgrade = "splitter-5",
-    speed = 0.125,
+    next_upgrade = "splitter-6",
+    speed = 0.1875,
     structure =
     {
       north =
       {
-        filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-4/splitter-4-north.png",
+        filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-5/splitter-5-north.png",
         frame_count = 32,
         line_length = 8,
         priority = "extra-high",
@@ -41,7 +40,7 @@ data:extend(
         shift = util.by_pixel(6, 0),
         hr_version =
         {
-          filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-4/hr-splitter-4-north.png",
+          filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-5/hr-splitter-5-north.png",
           frame_count = 32,
           line_length = 8,
           priority = "extra-high",
@@ -53,7 +52,7 @@ data:extend(
       },
       east =
       {
-        filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-4/splitter-4-east.png",
+        filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-5/splitter-5-east.png",
         frame_count = 32,
         line_length = 8,
         priority = "extra-high",
@@ -62,7 +61,7 @@ data:extend(
         shift = util.by_pixel(4, -6),
         hr_version =
         {
-          filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-4/hr-splitter-4-east.png",
+          filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-5/hr-splitter-5-east.png",
           frame_count = 32,
           line_length = 8,
           priority = "extra-high",
@@ -74,7 +73,7 @@ data:extend(
       },
       south =
       {
-        filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-4/splitter-4-south.png",
+        filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-5/splitter-5-south.png",
         frame_count = 32,
         line_length = 8,
         priority = "extra-high",
@@ -83,7 +82,7 @@ data:extend(
         shift = util.by_pixel(4, 0),
         hr_version =
         {
-          filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-4/hr-splitter-4-south.png",
+          filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-5/hr-splitter-5-south.png",
           frame_count = 32,
           line_length = 8,
           priority = "extra-high",
@@ -95,7 +94,7 @@ data:extend(
       },
       west =
       {
-        filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-4/splitter-4-west.png",
+        filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-5/splitter-5-west.png",
         frame_count = 32,
         line_length = 8,
         priority = "extra-high",
@@ -104,7 +103,7 @@ data:extend(
         shift = util.by_pixel(6, -4),
         hr_version =
         {
-          filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-4/hr-splitter-4-west.png",
+          filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-5/hr-splitter-5-west.png",
           frame_count = 32,
           line_length = 8,
           priority = "extra-high",
