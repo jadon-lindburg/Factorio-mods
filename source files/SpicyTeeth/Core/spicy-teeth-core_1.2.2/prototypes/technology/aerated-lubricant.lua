@@ -4,7 +4,7 @@ data:extend(
     type = "technology",
     name = "aerated-lubricant",
     icon_size = 128,
-    icon = "__spicy-teeth-core__/graphics/technology/aerated-lubricant.png",
+    icon = "__spicy-teeth-core_assets__/graphics/technology/aerated-lubricant.png",
     prerequisites = {"refined-lubricant"},
     unit =
     {
