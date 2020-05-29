@@ -4,7 +4,7 @@ data:extend(
     type = "technology",
     name = "refined-lubricant",
     icon_size = 128,
-    icon = "__spicy-teeth-core__/graphics/technology/refined-lubricant.png",
+    icon = "__spicy-teeth-core_assets__/graphics/technology/refined-lubricant.png",
     prerequisites = {"advanced-oil-processing", "lubricant"},
     unit =
     {

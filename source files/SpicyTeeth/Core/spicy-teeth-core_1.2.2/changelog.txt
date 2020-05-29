@@ -1,6 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.2.2
+Date: 2020-05-29
+  Changes:
+    - Separated graphics assets into spicy-teeth-core_assets mod to allow assets
+      and functional elements to be updated independently.
+---------------------------------------------------------------------------------------------------
 Version: 1.2.1
-Date: 2020-02-28
+Date: 2020-05-28
   Changes:
     - Added extended logistics item group.
     - Adjusted smoke colors for refined lubricant recipe.
