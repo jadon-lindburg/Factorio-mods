@@ -1,0 +1,69 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.4.0
+Date: 2020-05-29
+  Features:
+    - Added transport belt/underground belt/splitter tier 8 (180 items/sec).
+    - Added logistics 8 technology.
+    - Transport belt/underground belt/splitter tier 7 can be automatically upgraded to tier 8.
+---------------------------------------------------------------------------------------------------
+Version: 1.3.2
+Date: 2020-05-29
+  Changes:
+    - Separated graphics assets into spicy-teeth-mbt_assets mod to allow assets
+      and functional elements to be updated independently.
+---------------------------------------------------------------------------------------------------
+Version: 1.3.1
+Date: 2020-05-28
+  Changes:
+    - Overwrote names for vanilla belt tiers.
+      (transport belt -> transport belt tier 1, fast transport belt -> transport belt tier 2 etc)
+    - Moved belt recipes to extended logistics item group to de-clutter existing item group.
+---------------------------------------------------------------------------------------------------
+Version: 1.3.0
+Date: 2020-05-28
+  Features:
+    - Added transport belt/underground belt/splitter tier 7 (150 items/sec).
+    - Added logistics 7 technology.
+    - Transport belt/underground belt/splitter tier 6 can be automatically upgraded to tier 7.
+    - Added Impatient achievement (craft a tier 4 transport belt).
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 2020-05-26
+  Features:
+    - Added transport belt/underground belt/splitter tier 6 (120 items/sec).
+    - Added logistics 6 technology.
+    - Transport belt/underground belt/splitter tier 5 can be automatically upgraded to tier 6.
+  Bugfixes:
+    - Fixed transport belt tier 5 icon on transport belt tier 5 entity spritesheet.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 2020-05-26
+  Changes:
+    - Increased speed of tier 5 from 75 to 90 items/sec.
+    - Removed sprite source files from mod files to reduce filesize.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2020-05-26
+  Features:
+    - Added transport belt/underground belt/splitter tier 5 (75 items/sec).
+    - Added logistics 5 technology.
+    - Transport belt/underground belt/splitter tier 4 can be automatically upgraded to tier 5.
+  Changes:
+    - Added changelog to mod files.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2020-05-26
+  Bugfixes:
+    - Fixed splitter tier 4 west-facing high-res animation lurching back and forth.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2020-05-25
+  Changes:
+    - Added thumbnail to mod files.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0 - First release
+Date: 2020-05-25
+  Features:
+    - Added transport belt/underground belt/splitter tier 4 (60 items/sec).
+    - Added logistics 4 technology.
+    - Express transport belt/underground belt/splitter can be automatically upgraded to tier 4.
