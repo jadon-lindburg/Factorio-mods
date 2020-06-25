@@ -1,4 +1,13 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2020-0-
+  Features:
+    - Added titanium ore.
+    - Added titanium plate.
+    - Added titanium gear wheel.
+    - Added titanium chest.
+    - Added nanotech technology.
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0 - First release
 Date: 2020-05-29
   Changes:

@@ -6,7 +6,7 @@ data:extend(
     icon = "__spicy-teeth-core_assets__/graphics/icons/steel-gear-wheel.png",
     icon_size = 32,
     subgroup = "intermediate-product",
-    order = "c[steel-gear-wheel]",
+    order = "ca[steel-gear-wheel]",
     stack_size = 100
   }
 }
