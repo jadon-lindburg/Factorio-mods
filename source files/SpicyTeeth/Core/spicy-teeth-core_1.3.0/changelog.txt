@@ -5,9 +5,11 @@ Date: 2020-0-
     - Added titanium ore.
     - Added titanium plate.
     - Added titanium gear wheel.
-    - Added titanium chest.
+    - Added titanium chest. TODO
     - Added nanobots.
-    - Added nanotech technology.
+    - Added nanobots technology.
+    - Added nano lubricant. TODO
+    - Added nano lubricant technology. TODO
 ---------------------------------------------------------------------------------------------------
 Version: 1.2.2
 Date: 2020-05-29

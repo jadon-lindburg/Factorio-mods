@@ -6,7 +6,10 @@ Date: 2020-0-
     - Added titanium plate.
     - Added titanium gear wheel.
     - Added titanium chest.
+	  - Added nanobots.
     - Added nanobots technology.
+    - Added nano lubricant. TODO
+    - Added nano lubricant technology. TODO
   Changes:
     - Darkened map color for stone by 30% to make it more visually distinct from titanium ore.
 ---------------------------------------------------------------------------------------------------

@@ -25,7 +25,7 @@ data:extend(
         recipe = "aerated-lubricant"
       }
     },
-    order = "b-d"
+    order = "b-b-c"
   }
 }
 )

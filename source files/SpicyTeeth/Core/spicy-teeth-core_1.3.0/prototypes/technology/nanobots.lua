@@ -2,10 +2,10 @@ data:extend(
 {
   {
     type = "technology",
-    name = "refined-lubricant",
+    name = "nanobots",
     icon_size = 128,
-    icon = "__spicy-teeth-core_assets__/graphics/technology/refined-lubricant.png",
-    prerequisites = {"advanced-oil-processing", "lubricant"},
+    icon = "__spicy-teeth-core_assets__/graphics/technology/nanobots.png",
+    prerequisites = {"electric-engine"},
     unit =
     {
       count = 100,
@@ -13,18 +13,17 @@ data:extend(
       {
         {"automation-science-pack", 1},
         {"logistic-science-pack", 1},
-        {"chemical-science-pack", 1}
       },
-      time = 30
+      time = 30,
     },
     effects =
     {
       {
         type = "unlock-recipe",
-        recipe = "refined-lubricant"
+        recipe = "nanobots"
       }
     },
-    order = "b-b-b"
+    order = "c-a"
   }
 }
 )
