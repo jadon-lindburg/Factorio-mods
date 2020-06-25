@@ -6,7 +6,7 @@ Date: 2020-0-
     - Added titanium plate.
     - Added titanium gear wheel.
     - Added titanium chest.
-    - Added nanotech technology.
+    - Added nanobots technology.
   Changes:
     - Darkened map color for stone by 30% to make it more visually distinct from titanium ore.
 ---------------------------------------------------------------------------------------------------
