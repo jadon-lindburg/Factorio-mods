@@ -7,6 +7,8 @@ Date: 2020-0-
     - Added titanium gear wheel.
     - Added titanium chest.
     - Added nanotech technology.
+  Changes:
+    - Darkened map color for stone by 30% to make it more visually distinct from titanium ore.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0 - First release
 Date: 2020-05-29

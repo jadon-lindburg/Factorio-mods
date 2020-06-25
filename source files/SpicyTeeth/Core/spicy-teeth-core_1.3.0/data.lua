@@ -1,4 +1,13 @@
 --prototypes
+require("prototypes.autoplace-control-titanium-ore")
+--  entities
+--    particles
+require("prototypes.entity.particles.titanium-ore-particle")
+--    /particles
+--    resources
+require("prototypes.entity.resources.titanium-ore")
+--    /resources
+--  /entities
 --  fluids
 require("prototypes.fluid.aerated-lubricant")
 require("prototypes.fluid.refined-lubricant")

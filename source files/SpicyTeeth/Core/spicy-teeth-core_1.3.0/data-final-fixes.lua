@@ -1,0 +1,1 @@
+data.raw["resource"]["stone"].map_color = {0.483, 0.428, 0.299}
