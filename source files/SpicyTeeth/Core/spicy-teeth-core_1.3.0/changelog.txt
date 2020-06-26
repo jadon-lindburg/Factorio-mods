@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.3.0
-Date: 2020-0-
+Date: 2020-06-25
   Features:
     - Added titanium ore.
     - Added titanium plate.
@@ -8,8 +8,8 @@ Date: 2020-0-
     - Added titanium chest.
     - Added nanobots.
     - Added nanobots technology.
-    - Added nano lubricant. TODO
-    - Added nano lubricant technology. TODO
+    - Added nano lubricant.
+    - Added nano lubricant technology.
 ---------------------------------------------------------------------------------------------------
 Version: 1.2.2
 Date: 2020-05-29

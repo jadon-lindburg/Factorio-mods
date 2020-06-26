@@ -1,15 +1,15 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.0
-Date: 2020-0-
+Date: 2020-06-25
   Features:
     - Added titanium ore.
     - Added titanium plate.
     - Added titanium gear wheel.
     - Added titanium chest.
-	  - Added nanobots.
+    - Added nanobots.
     - Added nanobots technology.
-    - Added nano lubricant. TODO
-    - Added nano lubricant technology. TODO
+    - Added nano lubricant.
+    - Added nano lubricant technology.
   Changes:
     - Darkened map color for stone by 30% to make it more visually distinct from titanium ore.
 ---------------------------------------------------------------------------------------------------
