@@ -7,6 +7,8 @@ require("prototypes.entity.particles.titanium-ore-particle")
 --    resources
 require("prototypes.entity.resources.titanium-ore")
 --    /resources
+require("prototypes.entity.titanium-chest.titanium-chest")
+require("prototypes.entity.titanium-chest.titanium-chest-remnants")
 --  /entities
 --  fluids
 require("prototypes.fluid.aerated-lubricant")
@@ -15,6 +17,7 @@ require("prototypes.fluid.refined-lubricant")
 --  items
 require("prototypes.item.nanobots")
 require("prototypes.item.steel-gear-wheel")
+require("prototypes.item.titanium-chest")
 require("prototypes.item.titanium-gear-wheel")
 require("prototypes.item.titanium-ore")
 require("prototypes.item.titanium-plate")
@@ -31,6 +34,7 @@ require("prototypes.recipe.furnace-titanium-plate")
 --    item recipes
 require("prototypes.recipe.nanobots")
 require("prototypes.recipe.steel-gear-wheel")
+require("prototypes.recipe.titanium-chest")
 require("prototypes.recipe.titanium-gear-wheel")
 --  /recipes
 --  technologies
