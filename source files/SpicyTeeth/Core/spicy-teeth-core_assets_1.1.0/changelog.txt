@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2020-06-25
+  Features:
+    - Added titanium ore.
+    - Added titanium plate.
+    - Added titanium gear wheel.
+    - Added titanium chest.
+    - Added nanobots.
+    - Added nanobots technology.
+    - Added nano lubricant.
+    - Added nano lubricant technology.
+  Changes:
+    - Darkened map color for stone by 30% to make it more visually distinct from titanium ore.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0 - First release
+Date: 2020-05-29
+  Changes:
+    - Separated graphics assets from spicy-teeth-core mod to allow assets
+      and functional elements to be updated independently.
