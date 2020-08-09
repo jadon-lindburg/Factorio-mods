@@ -1,0 +1,41 @@
+data:extend(
+{
+  {
+    type = "technology",
+    name = "titanium-processing",
+    icon_size = 128,
+    icon = "__spicy-teeth-core_assets__/graphics/technology/titanium-processing.png",
+    prerequisites = {"sulfur-processing"},
+    unit =
+    {
+      count = 50,
+      ingredients =
+      {
+        {"automation-science-pack", 1},
+        {"logistic-science-pack", 1}
+      },
+      time = 30,
+    },
+    effects =
+    {
+      {
+        type = "unlock-recipe",
+        recipe = "purified-titanium-ore"
+      },
+      {
+        type = "unlock-recipe",
+        recipe = "titanium-plate"
+      },
+      {
+        type = "unlock-recipe",
+        recipe = "titanium-gear-wheel"
+      },
+      {
+        type = "unlock-recipe",
+        recipe = "titanium-chest"
+      },
+    },
+    order = "c-a"
+  }
+}
+)

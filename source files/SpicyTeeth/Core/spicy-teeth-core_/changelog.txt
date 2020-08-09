@@ -1,9 +1,19 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.4.0
+Date: 2020-08-09
+  Features:
+    - Added purified titanium ore.
+    - Added titanium processing technology.
+  Changes:
+    - Changed titanium recipes to be unlocked by titanium processing technology.
+    - Changed titanium plate to be smelted from purified titanium ore.
+    - Made nanobots technology dependent on titanium processing technology.
+---------------------------------------------------------------------------------------------------
 Version: 1.3.1
 Date: 2020-08-09
   Bugfixes:
     - Fixed 1.3.0-A: Nanobots recipe is enabled by default.
-	- Fixed 1.3.0-B: Nanobots technology research cost is wrong.
+    - Fixed 1.3.0-B: Nanobots technology research cost is wrong.
 ---------------------------------------------------------------------------------------------------
 Version: 1.3.0
 Date: 2020-06-25
