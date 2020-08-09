@@ -6,14 +6,16 @@ data:extend(
     category = "smelting",
     normal =
     {
+	  enabled = false,
       energy_required = 16,
-      ingredients = {{"titanium-ore", 1}},
+      ingredients = {{"purified-titanium-ore", 1}},
       result = "titanium-plate"
     },
     expensive =
     {
+	  enabled = false,
       energy_required = 32,
-      ingredients = {{"titanium-ore", 2}},
+      ingredients = {{"purified-titanium-ore", 2}},
       result = "titanium-plate"
     }
   }
