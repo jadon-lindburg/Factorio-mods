@@ -20,7 +20,7 @@ data:extend(
 				recipe = "splitter-5"
 			}
 		},
-		prerequisites = {"logistics-4"},
+		prerequisites = {"logistics-4", "refined-lubricant"},
 		unit =
 		{
 			count = 500,
