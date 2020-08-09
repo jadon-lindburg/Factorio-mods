@@ -3,6 +3,7 @@ data:extend(
   {
     type = "recipe",
     name = "nanobots",
+	enabled = false,
     ingredients =
     {
       {"titanium-plate", 10},
