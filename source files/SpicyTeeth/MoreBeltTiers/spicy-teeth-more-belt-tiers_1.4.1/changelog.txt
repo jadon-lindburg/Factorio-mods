@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.4.1
+Date: [release date]
+  Changes:
+    - Removed "tier" from belt names to match vanilla naming conventions.
+  Bugfixes:
+    - Fixed logistics 5 technology missing dependency on refined lubricant technology.
+---------------------------------------------------------------------------------------------------
 Version: 1.4.0
 Date: 2020-05-29
   Features:
