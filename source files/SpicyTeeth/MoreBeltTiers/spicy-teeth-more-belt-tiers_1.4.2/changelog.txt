@@ -1,10 +1,15 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.4.2
+Date: 2020-08-09
+  Changes:
+    - Replaced "1" in tier 1 belt names to match vanilla naming conventions.
+---------------------------------------------------------------------------------------------------
 Version: 1.4.1
-Date: [release date]
+Date: 2020-08-09
   Changes:
     - Removed "tier" from belt names to match vanilla naming conventions.
   Bugfixes:
-    - Fixed logistics 5 technology missing dependency on refined lubricant technology.
+    - Fixed 1.4.0-A: Logistics 5 technology is not dependent on refined lubricant technology.
 ---------------------------------------------------------------------------------------------------
 Version: 1.4.0
 Date: 2020-05-29
@@ -61,12 +66,12 @@ Date: 2020-05-26
 Version: 1.0.2
 Date: 2020-05-26
   Bugfixes:
-    - Fixed splitter tier 4 west-facing high-res animation lurching back and forth.
+    - Fixed 1.0.1-A: Splitter tier 4 west-facing high-res animation lurches.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2020-05-25
-  Changes:
-    - Added thumbnail to mod files.
+  Bugfixes:
+    - Fixed 1.0.0-A: Mod thumbnail is missing.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0 - First release
 Date: 2020-05-25
