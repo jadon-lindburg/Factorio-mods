@@ -21,3 +21,19 @@ data.raw["item"]["fast-splitter"].subgroup = "extended-splitter"
 data.raw["item"]["fast-splitter"].order = "b[splitter-2]"
 data.raw["item"]["express-splitter"].subgroup = "extended-splitter"
 data.raw["item"]["express-splitter"].order = "c[splitter3]"
+
+
+-- change transport belt icons
+data.raw["item"]["transport-belt"].icon = "__spicy-teeth-mbt_assets__/graphics/icons/transport-belt-1.png"
+data.raw["item"]["fast-transport-belt"].icon = "__spicy-teeth-mbt_assets__/graphics/icons/transport-belt-2.png"
+data.raw["item"]["express-transport-belt"].icon = "__spicy-teeth-mbt_assets__/graphics/icons/transport-belt-3.png"
+
+-- change underground belt icons
+data.raw["item"]["underground-belt"].icon = "__spicy-teeth-mbt_assets__/graphics/icons/underground-belt-1.png"
+data.raw["item"]["fast-underground-belt"].icon = "__spicy-teeth-mbt_assets__/graphics/icons/underground-belt-2.png"
+data.raw["item"]["express-underground-belt"].icon = "__spicy-teeth-mbt_assets__/graphics/icons/underground-belt-3.png"
+
+-- change splitter icons
+data.raw["item"]["splitter"].icon = "__spicy-teeth-mbt_assets__/graphics/icons/splitter-1.png"
+data.raw["item"]["fast-splitter"].icon = "__spicy-teeth-mbt_assets__/graphics/icons/splitter-2.png"
+data.raw["item"]["express-splitter"].icon = "__spicy-teeth-mbt_assets__/graphics/icons/splitter-3.png"
