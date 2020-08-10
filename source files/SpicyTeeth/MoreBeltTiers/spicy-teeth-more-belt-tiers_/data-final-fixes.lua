@@ -1,39 +1,57 @@
--- move transport belts to extended logistics
-data.raw["item"]["transport-belt"].subgroup = "extended-belt"
-data.raw["item"]["transport-belt"].order = "a[transport-belt-1]"
-data.raw["item"]["fast-transport-belt"].subgroup = "extended-belt"
-data.raw["item"]["fast-transport-belt"].order = "b[transport-belt-2]"
-data.raw["item"]["express-transport-belt"].subgroup = "extended-belt"
-data.raw["item"]["express-transport-belt"].order = "c[transport-belt-3]"
-
--- move underground belts to extended logistics
-data.raw["item"]["underground-belt"].subgroup = "extended-underground-belt"
-data.raw["item"]["underground-belt"].order = "a[underground-belt-1]"
-data.raw["item"]["fast-underground-belt"].subgroup = "extended-underground-belt"
-data.raw["item"]["fast-underground-belt"].order = "b[underground-belt-2]"
-data.raw["item"]["express-underground-belt"].subgroup = "extended-underground-belt"
-data.raw["item"]["express-underground-belt"].order = "c[underground-belt-3]"
-
--- move splitters to extended logistics
-data.raw["item"]["splitter"].subgroup = "extended-splitter"
-data.raw["item"]["splitter"].order = "a[splitter-1]"
-data.raw["item"]["fast-splitter"].subgroup = "extended-splitter"
-data.raw["item"]["fast-splitter"].order = "b[splitter-2]"
-data.raw["item"]["express-splitter"].subgroup = "extended-splitter"
-data.raw["item"]["express-splitter"].order = "c[splitter3]"
+-- store prototypes to change so they don't have to be retrieved more than once
+local transport_belt_1 = data.raw["item"]["transport-belt"]
+local transport_belt_2 = data.raw["item"]["fast-transport-belt"]
+local transport_belt_3 = data.raw["item"]["express-transport-belt"]
+local underground_belt_1 = data.raw["item"]["underground-belt"]
+local underground_belt_2 = data.raw["item"]["fast-underground-belt"]
+local underground_belt_3 = data.raw["item"]["express-underground-belt"]
+local splitter_1 = data.raw["item"]["splitter"]
+local splitter_2 = data.raw["item"]["fast-splitter"]
+local splitter_3 = data.raw["item"]["express-splitter"]
+-- / store prototypes to change
 
 
--- change transport belt icons
-data.raw["item"]["transport-belt"].icon = "__spicy-teeth-mbt_assets__/graphics/icons/transport-belt-1.png"
-data.raw["item"]["fast-transport-belt"].icon = "__spicy-teeth-mbt_assets__/graphics/icons/transport-belt-2.png"
-data.raw["item"]["express-transport-belt"].icon = "__spicy-teeth-mbt_assets__/graphics/icons/transport-belt-3.png"
 
--- change underground belt icons
-data.raw["item"]["underground-belt"].icon = "__spicy-teeth-mbt_assets__/graphics/icons/underground-belt-1.png"
-data.raw["item"]["fast-underground-belt"].icon = "__spicy-teeth-mbt_assets__/graphics/icons/underground-belt-2.png"
-data.raw["item"]["express-underground-belt"].icon = "__spicy-teeth-mbt_assets__/graphics/icons/underground-belt-3.png"
+-- move base game tiers to extended logicstics group
+--   transport belts
+transport_belt_1.subgroup = "extended-belt"
+transport_belt_1.order = "a[transport-belt-1]"
+transport_belt_2.subgroup = "extended-belt"
+transport_belt_2.order = "b[transport-belt-2]"
+transport_belt_3.subgroup = "extended-belt"
+transport_belt_3.order = "c[transport-belt-3]"
 
--- change splitter icons
-data.raw["item"]["splitter"].icon = "__spicy-teeth-mbt_assets__/graphics/icons/splitter-1.png"
-data.raw["item"]["fast-splitter"].icon = "__spicy-teeth-mbt_assets__/graphics/icons/splitter-2.png"
-data.raw["item"]["express-splitter"].icon = "__spicy-teeth-mbt_assets__/graphics/icons/splitter-3.png"
+--   underground belts
+underground_belt_1.subgroup = "extended-underground-belt"
+underground_belt_1.order = "a[underground-belt-1]"
+underground_belt_2.subgroup = "extended-underground-belt"
+underground_belt_2.order = "b[underground-belt-2]"
+underground_belt_3.subgroup = "extended-underground-belt"
+underground_belt_3.order = "c[underground-belt-3]"
+
+--   splitters
+splitter_1.subgroup = "extended-splitter"
+splitter_1.order = "a[splitter-1]"
+splitter_2.subgroup = "extended-splitter"
+splitter_2.order = "b[splitter-2]"
+splitter_3.subgroup = "extended-splitter"
+splitter_3.order = "c[splitter3]"
+-- /move base game tiers to extended logicstics group
+
+
+-- change base game icons
+--   transport belts
+transport_belt_1.icon = "__spicy-teeth-mbt_assets__/graphics/icons/transport-belt-1.png"
+transport_belt_2.icon = "__spicy-teeth-mbt_assets__/graphics/icons/transport-belt-2.png"
+transport_belt_3.icon = "__spicy-teeth-mbt_assets__/graphics/icons/transport-belt-3.png"
+
+--   underground belt
+underground_belt_1.icon = "__spicy-teeth-mbt_assets__/graphics/icons/underground-belt-1.png"
+underground_belt_2.icon = "__spicy-teeth-mbt_assets__/graphics/icons/underground-belt-2.png"
+underground_belt_3.icon = "__spicy-teeth-mbt_assets__/graphics/icons/underground-belt-3.png"
+
+--   splitter
+splitter_1.icon = "__spicy-teeth-mbt_assets__/graphics/icons/splitter-1.png"
+splitter_2.icon = "__spicy-teeth-mbt_assets__/graphics/icons/splitter-2.png"
+splitter_3.icon = "__spicy-teeth-mbt_assets__/graphics/icons/splitter-3.png"
+-- /change base game icons
