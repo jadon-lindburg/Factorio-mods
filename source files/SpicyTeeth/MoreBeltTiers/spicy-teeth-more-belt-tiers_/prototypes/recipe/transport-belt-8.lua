@@ -11,7 +11,7 @@ data:extend(
 			{
 				{"steel-gear-wheel", 20},
 				{"transport-belt-7", 1},
-				{type="fluid", name="aerated-lubricant", amount=70}
+				{type="fluid", name="aerated-lubricant", amount=50}
 			},
 			result = "transport-belt-8"
 		},
@@ -22,7 +22,7 @@ data:extend(
 			{
 				{"steel-gear-wheel", 40},
 				{"transport-belt-7", 1},
-				{type="fluid", name="aerated-lubricant", amount=70}
+				{type="fluid", name="aerated-lubricant", amount=50}
 			},	  
 			result = "transport-belt-8"
 		}	

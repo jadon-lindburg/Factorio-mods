@@ -10,7 +10,7 @@ data:extend(
     {
       {"steel-gear-wheel", 80},
       {"underground-belt-5", 2},
-      {type="fluid", name="refined-lubricant", amount=75}
+      {type="fluid", name="refined-lubricant", amount=80}
     },
     result_count = 2,
     result = "underground-belt-6"	

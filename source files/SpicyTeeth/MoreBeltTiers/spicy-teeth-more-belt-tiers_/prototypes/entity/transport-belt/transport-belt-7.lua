@@ -1,4 +1,3 @@
-require("prototypes.entity.transport-belt.transport-belt-7-pictures")
 require("prototypes.entity.transport-belt.transport-belt-7-remnants")
 
 data:extend(

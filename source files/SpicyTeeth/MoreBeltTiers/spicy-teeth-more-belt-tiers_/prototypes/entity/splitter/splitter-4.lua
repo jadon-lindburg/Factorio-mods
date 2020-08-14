@@ -1,4 +1,3 @@
-require("prototypes.entity.splitter.express-splitter")
 require("prototypes.entity.splitter.splitter-4-remnants")
 
 data:extend(

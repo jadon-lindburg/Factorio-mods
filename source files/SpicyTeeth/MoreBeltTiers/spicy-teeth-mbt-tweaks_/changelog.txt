@@ -1,0 +1,30 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.5.0
+Date: releasedate
+  Features:
+    - Added tweaks for belt tiers added in MBT v1.5.0.
+---------------------------------------------------------------------------------------------------
+Version: 1.4.0
+Date: releasedate
+  Features:
+    - Added tweaks for belt tiers added in MBT v1.4.0.
+---------------------------------------------------------------------------------------------------
+Version: 1.3.0
+Date: releasedate
+  Features:
+    - Added tweaks for belt tiers added in MBT v1.3.0.
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: releasedate
+  Features:
+    - Added tweaks for belt tiers added in MBT v1.2.0.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: releasedate
+  Features:
+    - Added tweaks for belt tiers added in MBT v1.1.0.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0 - First release
+Date: releasedate
+  Features:
+    - Added tweaks for belt tiers added in MBT v1.0.0.

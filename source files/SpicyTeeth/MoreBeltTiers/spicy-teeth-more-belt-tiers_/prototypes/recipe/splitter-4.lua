@@ -9,7 +9,7 @@ data:extend(
     ingredients =
     {
       {"express-splitter", 1},
-      {"iron-gear-wheel", 15},
+      {"iron-gear-wheel", 10},
       {"advanced-circuit", 15},
       {type="fluid", name="lubricant", amount=120}
     },
