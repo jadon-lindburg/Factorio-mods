@@ -1,16 +1,16 @@
-require("prototypes.entity.splitter.splitter-8-remnants")
+require("prototypes.entity.splitter.splitter-9-remnants")
 
 data:extend(
 {
   {
     type = "splitter",
-    name = "splitter-8",
-    icon = "__spicy-teeth-mbt_assets__/graphics/icons/splitter-8.png",
+    name = "splitter-9",
+    icon = "__spicy-teeth-mbt_assets__/graphics/icons/splitter-9.png",
     icon_size = 32,
     flags = {"placeable-neutral", "player-creation"},
-    minable = {mining_time = 0.1, result = "splitter-8"},
-    max_health = 240,
-    corpse = "splitter-8-remnants",
+    minable = {mining_time = 0.1, result = "splitter-9"},
+    max_health = 250,
+    corpse = "splitter-9-remnants",
     resistances =
     {
       {
@@ -23,15 +23,14 @@ data:extend(
     animation_speed_coefficient = 32,
     structure_animation_speed_coefficient = 1.2,
     structure_animation_movement_cooldown = 10,
-    belt_animation_set = tier_8_belt_animation_set,
+    belt_animation_set = tier_9_belt_animation_set,
     fast_replaceable_group = "transport-belt",
-    next_upgrade = "splitter-9",
-    speed = 0.375,
+    speed = 0.5,
     structure =
     {
       north =
       {
-        filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-8/splitter-8-north.png",
+        filename = "__base__/graphics/entity/splitter/splitter-north.png",
         frame_count = 32,
         line_length = 8,
         priority = "extra-high",
@@ -40,7 +39,7 @@ data:extend(
         shift = util.by_pixel(6, 0),
         hr_version =
         {
-          filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-8/hr-splitter-8-north.png",
+          filename = "__base__/graphics/entity/splitter/hr-splitter-north.png",
           frame_count = 32,
           line_length = 8,
           priority = "extra-high",
@@ -52,7 +51,7 @@ data:extend(
       },
       east =
       {
-        filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-8/splitter-8-east.png",
+        filename = "__base__/graphics/entity/splitter/splitter-east.png",
         frame_count = 32,
         line_length = 8,
         priority = "extra-high",
@@ -61,7 +60,7 @@ data:extend(
         shift = util.by_pixel(4, -6),
         hr_version =
         {
-          filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-8/hr-splitter-8-east.png",
+          filename = "__base__/graphics/entity/splitter/hr-splitter-east.png",
           frame_count = 32,
           line_length = 8,
           priority = "extra-high",
@@ -73,7 +72,7 @@ data:extend(
       },
       south =
       {
-        filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-8/splitter-8-south.png",
+        filename = "__base__/graphics/entity/splitter/splitter-south.png",
         frame_count = 32,
         line_length = 8,
         priority = "extra-high",
@@ -82,7 +81,7 @@ data:extend(
         shift = util.by_pixel(4, 0),
         hr_version =
         {
-          filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-8/hr-splitter-8-south.png",
+          filename = "__base__/graphics/entity/splitter/hr-splitter-south.png",
           frame_count = 32,
           line_length = 8,
           priority = "extra-high",
@@ -94,7 +93,7 @@ data:extend(
       },
       west =
       {
-        filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-8/splitter-8-west.png",
+        filename = "__base__/graphics/entity/splitter/splitter-west.png",
         frame_count = 32,
         line_length = 8,
         priority = "extra-high",
@@ -103,7 +102,7 @@ data:extend(
         shift = util.by_pixel(6, -4),
         hr_version =
         {
-          filename = "__spicy-teeth-mbt_assets__/graphics/entity/splitter-8/hr-splitter-8-west.png",
+          filename = "__base__/graphics/entity/splitter/hr-splitter-west.png",
           frame_count = 32,
           line_length = 8,
           priority = "extra-high",

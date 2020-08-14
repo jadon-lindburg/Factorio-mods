@@ -9,8 +9,8 @@ data:extend(
     ingredients =
     {
       {"splitter-7", 1},
-      {"steel-gear-wheel", 20},
-      {"processing-unit", 10},
+      {"steel-gear-wheel", 10},
+      {"processing-unit", 5},
       {type="fluid", name="aerated-lubricant", amount=200}
     },
     result = "splitter-8"

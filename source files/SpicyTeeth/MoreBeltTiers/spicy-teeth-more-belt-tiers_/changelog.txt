@@ -1,8 +1,15 @@
 ---------------------------------------------------------------------------------------------------
-Version: version
+Version: 1.5.0
 Date: releasedate
+  Features:
+    - Added transport belt/underground belt/splitter tier 9 (180 items/sec).
+    - Added transport belt/underground belt/splitter tier 10 (180 items/sec).
+    - Added logistics 9 technology.
+    - Added logistics 10 technology.
+    - Transport belt/underground belt/splitter tier 8 can be automatically upgraded to tier 9.
+    - Transport belt/underground belt/splitter tier 9 can be automatically upgraded to tier 10.
   Changes:
-    - [Internal only] Changed how base game tiers are modified in data-final-fixes.
+    - Changed how base game tiers are modified in data-final-fixes.lua.
 ---------------------------------------------------------------------------------------------------
 Version: 1.4.3
 Date: 2020-08-09
