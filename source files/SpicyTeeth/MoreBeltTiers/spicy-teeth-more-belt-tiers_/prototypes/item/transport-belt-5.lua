@@ -6,7 +6,7 @@ data:extend(
     icon = "__spicy-teeth-mbt_assets__/graphics/icons/transport-belt-5.png",
     icon_size = 32,
     subgroup = "extended-belt",
-    order = "e[transport-belt-5]",
+    order = "a[transport-belt-5]",
     place_result = "transport-belt-5",
     stack_size = 100
   },

@@ -1,4 +1,3 @@
-require("prototypes.entity.underground-belt.express-underground-belt")
 require("prototypes.entity.underground-belt.underground-belt-4-remnants")
 
 data:extend(
