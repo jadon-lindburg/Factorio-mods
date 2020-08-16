@@ -30,7 +30,6 @@ __item__splitter_2.subgroup = "extended-splitter"
 __item__splitter_2.order = "a[splitter-2]"
 __item__splitter_3.subgroup = "extended-splitter"
 __item__splitter_3.order = "a[splitter-3]"
-
 --   transport belts
 __item__transport_belt_1.subgroup = "extended-belt"
 __item__transport_belt_1.order = "a[transport-belt-1]"
@@ -38,7 +37,6 @@ __item__transport_belt_2.subgroup = "extended-belt"
 __item__transport_belt_2.order = "a[transport-belt-2]"
 __item__transport_belt_3.subgroup = "extended-belt"
 __item__transport_belt_3.order = "a[transport-belt-3]"
-
 --   underground belts
 __item__underground_belt_1.subgroup = "extended-underground-belt"
 __item__underground_belt_1.order = "a[underground-belt-1]"
@@ -48,18 +46,15 @@ __item__underground_belt_3.subgroup = "extended-underground-belt"
 __item__underground_belt_3.order = "a[underground-belt-3]"
 -- /move base game tiers to extended logicstics group
 
-
 -- change base game icons
 --   splitter
 __item__splitter_1.icon = "__spicy-teeth-mbt_assets__/graphics/icons/splitter-1.png"
 __item__splitter_2.icon = "__spicy-teeth-mbt_assets__/graphics/icons/splitter-2.png"
 __item__splitter_3.icon = "__spicy-teeth-mbt_assets__/graphics/icons/splitter-3.png"
-
 --   transport belts
 __item__transport_belt_1.icon = "__spicy-teeth-mbt_assets__/graphics/icons/transport-belt-1.png"
 __item__transport_belt_2.icon = "__spicy-teeth-mbt_assets__/graphics/icons/transport-belt-2.png"
 __item__transport_belt_3.icon = "__spicy-teeth-mbt_assets__/graphics/icons/transport-belt-3.png"
-
 --   underground belt
 __item__underground_belt_1.icon = "__spicy-teeth-mbt_assets__/graphics/icons/underground-belt-1.png"
 __item__underground_belt_2.icon = "__spicy-teeth-mbt_assets__/graphics/icons/underground-belt-2.png"

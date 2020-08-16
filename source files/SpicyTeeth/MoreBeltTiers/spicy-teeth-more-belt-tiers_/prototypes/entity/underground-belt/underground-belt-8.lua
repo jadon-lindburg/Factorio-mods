@@ -46,7 +46,6 @@ data:extend(
     animation_speed_coefficient = 32,
     belt_animation_set = tier_8_belt_animation_set,
     fast_replaceable_group = "transport-belt",
-    next_upgrade = "underground-belt-9",
     speed = 0.375,
     structure =
     {

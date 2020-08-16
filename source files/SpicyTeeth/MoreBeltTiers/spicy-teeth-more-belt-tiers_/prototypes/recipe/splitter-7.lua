@@ -10,7 +10,7 @@ data:extend(
     {
       {"splitter-6", 1},
       {"steel-gear-wheel", 10},
-      {"processing-unit", 40},
+      {"advanced-circuit", 40},
       {type="fluid", name="aerated-lubricant", amount=160}
     },
     result = "splitter-7"
