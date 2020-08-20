@@ -1,0 +1,9 @@
+{
+    "name": "spicy-teeth-more-signals",
+    "version": "9999.9999.9999",
+    "factorio_version": "1.0",
+    "title": "Spicy Teeth - More Signals [development]",
+    "author": "SparkliTwizzl",
+    "description": "Adds more signals for greater flexibility in circuit networks.",
+    "dependencies": ["base >= 0.17.0", "spicy-teeth-ms_assets >= 1.0.0"]
+}
